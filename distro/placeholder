@@ -1,1 +1,6 @@
-Placeholder
+Placeholder.
+
+Here should be Confluence distro file
+atlassian-confluence-7.1.0-x64.bin
+Be carefull. It's ~500MB size. Avoid to push into repo!
+
